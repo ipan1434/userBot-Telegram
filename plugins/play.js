@@ -26,7 +26,7 @@ module.exports = {
         await client.sendMessage(message.peerId, {
             message: `🎶 memutar: *${text}*`,
             file: audioPath,
-            caption: `Lagu: *${text}* 🎵`,
+            caption: `lagu: *${text}* 🎵`,
             replyTo: message.id
         });
 
