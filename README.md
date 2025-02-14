@@ -5,7 +5,7 @@ To use Telegram's API and run your bot, you need to obtain an **API ID** and **A
 ## Steps to Get API ID and API Hash
 
 1. **Go to Telegram Developer Portal**  
-   - Open [https://my.telegram.org/apps](https://my.telegram.org/apps) in your browser.
+   - Open [https://my.telegram.org](https://my.telegram.org) in your browser.
 
 2. **Log in to Your Telegram Account**  
    - Enter your phone number and verify it using the code sent via Telegram.
