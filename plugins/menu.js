@@ -46,7 +46,7 @@ commands:
 `;
 
         await client.sendFile(message.chatId, {
-            file: "https://files.catbox.moe/n1yqe1.jpg",
+            file: "https://files.catbox.moe/p6w4jz.jpg",
             caption: caption,
             replyTo: message.id,
         });
